@@ -63,7 +63,7 @@
 								</div>	
 								<div class="col-md-4 col-sm-3 col-xs-12 top-phone text-center padding-0" style="padding-top:14px;">
                                 <h3 style="margin:0px; color:#0057ae;">Our Address</h3>
-									<p><i class="fa fa-map-marker"></i> 8326 17th St., St. Petersburg, FL 33702</p>	
+									<p><i class="fa fa-map-marker"></i> 4527 11th Ave N, St Petersburg, FL 33713</p>	
 								</div>	
                                 	<div class="col-md-4 col-sm-3 col-xs-12 top-phone text-center padding-0" style="padding-top:14px;">
                                 <h3 style="margin:0px; color:#0057ae; text-align:center;">Call Us</h3>
@@ -213,7 +213,7 @@ Free Estimates</h2>
 								<h3>Contact Us</h3>
 							</div>
 							<p><strong>Extreme Cleaning & More</strong></p>
-                            <p><i class="fa fa-map-marker"></i> Address: 8326 17th St., St. Petersburg, FL 33702</p>
+                            <p><i class="fa fa-map-marker"></i> Address: 4527 11th Ave N, St Petersburg, FL 33713</p>
 <p><i class="fa fa-phone"></i> Phone: 727-557-7086</p>
 <p><i class="fa fa-clock-o"></i> Hours: Monday – Sunday<br> 12am – 11:30pm</p>
 						</div>
