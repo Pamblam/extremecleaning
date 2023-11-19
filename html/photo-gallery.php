@@ -41,7 +41,7 @@
                 $('b', this).toggleClass("caret caret-up");                
             });
     });
-</script>  
+</script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -51,9 +51,7 @@
   ga('create', 'UA-100554757-2', 'auto');
   ga('send', 'pageview');
 
-</script>
-
-    
+</script>  
 </head>
 <body>
     <div class="item">
@@ -98,8 +96,8 @@
 											
 								<div id="navbar-collapse-02" class="collapse navbar-collapse">
 									<ul class="nav navbar-nav navbar-left">			      
-										<li class="active propClone"><a href="index.php" style="color:#fff!important; border-bottom:1px solid #fff; padding-bottom:10px;">Home</a></li>
-                                        
+										<li class="active propClone"><a href="index.php" style="color:#fff!important;">Home</a></li>
+										
                                         <li class="propClone dropdown menu-link"><a href="#" class="dropdown-toggle" data-toggle="dropdown" style="background:none;color:#fff!important;"> Services <span class="caret"></span></a>
                                 	 		<ul class="dropdown-menu">
                                          		<li class="propClone"><a href="suicide.php" style="color:#0e7f0b!important;">Suicide,Homicide,Unattended Death Cleanup</a></li>
@@ -109,10 +107,8 @@
                                                 
                                             </ul>
                                 		</li>
-										
-										
-										
-										<li class="propClone"><a href="photo-gallery.php" style="color:#fff!important;">Photo Gallery </a></li>
+                                        
+										<li class="propClone"><a href="photo-gallery.php" style="color:#fff!important;border-bottom:1px solid #fff; padding-bottom:10px;">Photo Gallery </a></li>
 									
 										<li class="propClone"><a href="contact-us.php" style="color:#fff!important;">Contact Us</a></li>
 									</ul> 		      
@@ -124,112 +120,33 @@
 					</div><!-- /.wrpaper -->
 				</div>
                 
-           <div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-  
-  </ol>
-
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner">
-    <div class="item active">
-      <img src="images/slider1.png" width="100%">
-    </div>
-
-    <div class="item">
-      <img src="images/slider2.png" width="100%">
-    </div>
-
-  
-  </div>
- 
-</div>
-        
-        <div class="item padding-top-74" id="aboutus3">
-				
-						<div class="title text-center">
-								<h1 style="font-size:35px;">Welcome to <span>EXTREME CLEANING & MORE!</span></h1>
-								<div class="title-border background-color-blue"></div>
-								<div class="col-md-9 sub-title">
-									<p>Extreme Cleaning & More is a locally owned and operated business that is fully insured and licensed in the state of Florida. We specialize in disaster clean-up (suicide, crime scene and hoarding). We have an outstanding reputation but what is most important: We will work with you within your budgetary limitations.</p>
-
-<p>My staff and myself go the extra steps to make sure that you and your family are completely satisfied with our services. Please call Darryl at (727) 557-7086 for your FREE estimate.</p>
-
-<p>When a biohazard occurs in your home or business, you need professional biohazard cleanup, and you need it now, we will be there. We are available 24/7 and we always use unmarked vehicles for your discretion.</p>
-
-<p>Extreme Cleaning & More is a company that is focused on helping people at the most difficult times.</p>
-
-<p>We are a locally owned company that has been in operation for over 10 years. We service all of Tampa Bay.</p>
-
-<p>We're on call 24 hours a day, 7 days a week, because your property and peace of mind depends on it.</p>
-								</div>
-						</div>
-		</div>
-        
-        <div class="item padding-top-0 padding-bottom-50" id="aboutus3">
+        <div class="item padding-top-50 padding-bottom-50" id="aboutus3">
 					<div class="container">
-						<div class="title">																							       
-                        
-               <div class="col-md-6 text-center"> 
-                       <div class="row border-line">
-                       <a href="gallery/gallery1.jpg" rel="lightbox[plants]" ><img src="gallery/gallery1.jpg" alt=""/ class="gallery"></a> 
-                       <a href="gallery/gallery2.jpg" rel="lightbox[plants]" ><img src="gallery/gallery2.jpg" alt=""/ class="gallery"></a>
-                       </div>
-               </div>
-        
-                <div class="col-md-6 text-center">
-                        <div class="row border-line">
-                        <a href="gallery/gallery3.jpg" rel="lightbox[plants]" ><img src="gallery/gallery3.jpg" alt=""/ class="gallery"></a> 
-                        <a href="gallery/gallery4.jpg" rel="lightbox[plants]" ><img src="gallery/gallery4.jpg" alt=""/ class="gallery"></a>    
-                         </div>
-                 </div>
-     
-    
+						<div class="title">
+								<h1 style="font-size:35px;"><span>Photo Gallery </span></h1>
+								
+							       
+   <div class="col-md-3"> <a href="gallery/gallery1.jpg" rel="lightbox[plants]" ><img src="gallery/gallery1.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery2.jpg" rel="lightbox[plants]" ><img src="gallery/gallery2.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery3.jpg" rel="lightbox[plants]" ><img src="gallery/gallery3.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery4.jpg" rel="lightbox[plants]" ><img src="gallery/gallery4.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery5.jpg" rel="lightbox[plants]" ><img src="gallery/gallery5.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery6.jpg" rel="lightbox[plants]" ><img src="gallery/gallery6.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery7.jpg" rel="lightbox[plants]" ><img src="gallery/gallery7.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery8.jpg" rel="lightbox[plants]" ><img src="gallery/gallery8.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery9.jpg" rel="lightbox[plants]" ><img src="gallery/gallery9.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery10.jpg" rel="lightbox[plants]" ><img src="gallery/gallery10.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery11.jpg" rel="lightbox[plants]" ><img src="gallery/gallery11.jpg" alt=""/ class="gallery"></a></div>
+    <div class="col-md-3">  <a href="gallery/gallery12.jpg" rel="lightbox[plants]" ><img src="gallery/gallery12.jpg" alt=""/ class="gallery"></a></div>
+     <div class="col-md-3"> <a href="gallery/gallery13.jpg" rel="lightbox[plants]" ><img src="gallery/gallery13.jpg" alt=""/ class="gallery"></a></div>
 						</div>
 		</div>
         </div>
         
         
-        <div class="item padding-top-50 padding-bottom-50" id="aboutus6">
-				
-						<div class="title text-center">
-								<h1 style="font-size:30px;"><span>Biohazard CleanupServices Include (but not limited to):</span></h1>
-								<div class="title-border background-color-blue"></div>
-								
-						</div>	
-						
-					<div class="our-expertise44 expert-tabs">
-						<div class="container">
-								
-                            
-                            <div class="col-md-4 text-center">
-                            	<h2><i class="fa fa-check-circle"></i></h2><a href="suicide.php">Suicide,Homicide,<br>Unattended Death Cleanup</a><p>(Including Blood and Bodily Fluid Spills)</p>
-										
-								
-                            </div>
-                            
-                             <div class="col-md-4 text-center">
-                            	<h2><i class="fa fa-check-circle"></i></h2><a href="hoarding.php">Hoarding Cleanup</a>
-                              
-                            </div>
-                            
-                            <div class="col-md-4 text-center">
-                            	<h2><i class="fa fa-check-circle"></i></h2><a href="deep-cleaning.php">Deep Cleanings of Homes <br>and Businesses</a>
-                            </div>
-                            
-                              
-                            <div class="col-md-12 text-center">
-                            	<h2><i class="fa fa-check-circle"></i></h2><a href="rodents.php">Rodent Infestation and Advanced<br> Odor Treatments </a>
-                            </div>
-						</div>
-					</div>
-					<div class="clearfix"></div>
-                    
-                    
-		
-		</div>
+        
+        
+        
         
         <div class="item padding-top-50 padding-bottom-50" id="callout2">
 			<div class="callout2-line margin-top-0">
@@ -241,11 +158,11 @@
 			<div class="clearfix"></div>
             <h3 class="color-white">EXTREME CLEANING & MORE</h3>
 			<h1 style="font-size:30px;">The Affordable Way</h1>
-<h2>PHONE CALLS ONLY PLEASE!!<br>
+<h2>Available 24/7<br>
 
-24/7 Local Response</h2>
+Free Estimates</h2>
 
-<h1 style="font-size:30px;">727-557-7086</h1>
+<h1 style="font-size:30px;">Call (727)557-7086</h1>
 </div>
 
 
@@ -316,8 +233,6 @@
 				</div>
 		
 		</div>
-        
-        
 	 <script src="js/jquery.js"></script>
 	 <script src="js/bootstrap.min.js"></script>
 	<script src="js/carousel/jquery.sly.js"></script>
